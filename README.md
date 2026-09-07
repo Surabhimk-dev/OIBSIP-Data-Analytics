@@ -55,6 +55,33 @@ Project folder: `Customer-Segmentation`
 
 ---
 
+
+### 3. Data Cleaning
+
+A data cleaning project using the Titanic dataset to demonstrate practical data quality and preprocessing techniques.
+
+**Tools Used:**
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+**Key Areas:**
+- Data quality assessment
+- Missing value handling
+- Duplicate removal
+- Data standardization
+- Data type correction
+- IQR-based outlier detection
+- Before and after data quality comparison
+- Cleaned dataset creation
+
+Project folder: `Data-Cleaning`
+
+---
+
 ## Internship
 
 **Oasis Infobyte – Data Analytics Internship**
